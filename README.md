@@ -39,9 +39,4 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
   1. domain knowledge in hospitality
   2. understanding stakeholders requirement from mock up dashboard 
 
-## Repository Contents
 
-- ` project pdf`: Contains dashboard pdf files
-- ` insights`: contians key insigths from dashboard  
-- `recommendation`: contains key recommendations from dashboard
-- `data modelling `: star and schema modelling between fact and dimension table 
